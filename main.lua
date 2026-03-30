@@ -1,7 +1,8 @@
+local S = minetest.get_translator(minetest.get_current_modname())
 config = modlib.mod.configuration()
 
 minetest.register_privilege("cycle_limit", {
-    description = "Not affected by cycle limit",
+    description = S("Not affected by cycle limit"),
     give_to_singleplayer = false,
     give_to_admin = true
 })
@@ -11,7 +12,7 @@ local interact = config.interact
 if interact then
     minetest.registered_privileges.interact.give_to_singleplayer = false
     minetest.register_privilege("interact_mods", {
-        description = "Can be granted interact by mods",
+        description = S("Can be granted interact by mods"),
         give_to_singleplayer = true,
         give_to_admin = true
     })

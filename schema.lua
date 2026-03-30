@@ -1,9 +1,11 @@
+local S = minetest.get_translator(minetest.get_current_modname())
+
 return {
     type = "table",
     entries = {
         name = {
 			type = "string",
-			default = "Switching",
+			default = S("Switching"),
 			description = "Timer text"
 		},
         duration = {

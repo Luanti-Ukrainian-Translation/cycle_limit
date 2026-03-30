@@ -1,0 +1,9 @@
+# textdomain: cycle_limit
+
+Cycle Limit=
+Limits hotbar slot switching=
+
+Can be granted interact by mods=
+Not affected by cycle limit=
+
+Switching=

@@ -1,0 +1,13 @@
+# textdomain: cycle_limit
+
+# Translated by Taras Lavrentiev
+# Luanti Ukrainian Translation Organization
+# 30.03.2026
+
+Cycle Limit=Ліміт перемикання
+Limits hotbar slot switching=Обмежує перемикання слотів хотбару
+
+Can be granted interact by mods=Може бути наданий interact модами
+Not affected by cycle limit=Не задіюється ліміт перемикання слотів
+
+Switching=Перемикання
