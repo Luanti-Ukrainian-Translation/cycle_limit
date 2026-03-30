@@ -66,4 +66,3 @@ Timer text
 
 * Type: string
 * Default: `Switching`
-<!--modlib:conf-->
