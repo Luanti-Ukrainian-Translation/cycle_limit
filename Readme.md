@@ -65,5 +65,5 @@ Whether the `interact` privilege should be revoked temporarily
 Timer text
 
 * Type: string
-* Default: `(T@cycle_limit)SwitchingE`
+* Default: `Switching`
 <!--modlib:conf-->
